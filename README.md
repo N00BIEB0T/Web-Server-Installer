@@ -1,5 +1,5 @@
 # web-server-installer
-A simple script to install various web server stack based on linux distribution. This script only running under Ubuntu based, or CentOS 7.
+A simple script to install various web server stack based on linux distribution. This script is only running under Ubuntu based, or CentOS 7.
 
 **Usage Suggestions:**
 Execute the script using sudo or using root user.
